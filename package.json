@@ -1,0 +1,30 @@
+{
+  "name": "lnto-curriculum",
+  "version": "1.0.0",
+  "description": "Learn & Teach Online Curriculum Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashuq/lnto-curriculum.git"
+  },
+  "keywords": [
+    "learn",
+    "and",
+    "teach",
+    "online",
+    "curriculum"
+  ],
+  "author": "Mashuq Rahman",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/mashuq/lnto-curriculum/issues"
+  },
+  "homepage": "https://github.com/mashuq/lnto-curriculum#readme",
+  "dependencies": {
+    "hapi": "^17.8.1",
+    "neo4j-driver": "^1.7.2"
+  }
+}
